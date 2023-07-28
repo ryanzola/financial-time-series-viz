@@ -110,7 +110,7 @@ celerybeat.pid
 env/
 venv/
 ENV/
-simple_moving_average_env/
+financial_charts_env/
 env.bak/
 venv.bak/
 
